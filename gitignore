@@ -1,0 +1,21 @@
+# Fichiers et répertoires générés par Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers et répertoires générés par Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+media
+
+# Environnement virtuel
+venv/
+venv2/
+env/
+env2/
+
+# Fichier de configuration Docker
+Dockerfile
