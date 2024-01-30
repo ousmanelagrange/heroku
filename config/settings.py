@@ -123,6 +123,11 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+# settings.py
+
+ALLOWED_HOSTS = ['food-app-60ts.onrender.com', 'www.food-app-60ts.onrender.com']
+
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
